@@ -13,6 +13,8 @@ SOURCES += \
     src\simulate_key_press.c \
     src\widget.cpp
 
+INCLUDEPATH += include
+
 HEADERS += \
     include\simulate_key_press.h \
     include\widget.h
